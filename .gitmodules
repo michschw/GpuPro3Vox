@@ -1,0 +1,3 @@
+[submodule "DXUT"]
+	path = DXUT
+	url = https://github.com/microsoft/DXUT.git
